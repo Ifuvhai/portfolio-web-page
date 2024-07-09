@@ -51,12 +51,18 @@ nav ul li{
 .about-container{
     max-width: 900px;
     margin: 100px auto;
-    background-color: aliceblue;
+    background-color: rgb(174, 165, 152);
 }
 .about-section{
     padding: 80px;
+    /* background-color: white; */
 }
 .about-title{
     font-size: 30px;
+    text-align: center;
+}
+.about-info{
+    display: flex;
+    gap: 40px;
     text-align: center;
 }
